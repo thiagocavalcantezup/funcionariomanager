@@ -1,4 +1,4 @@
-# Nosso Spotify
+# Genrenciador de Funcionarios
 
 O objetivo deste projeto é que as atividades do `Treinamento de CRUD e Relacionamentos` 
 
